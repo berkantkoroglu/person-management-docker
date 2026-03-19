@@ -1,7 +1,6 @@
 # Person Management System
 
-This project is a full-stack web application built with **React, Express.js, PostgreSQL, Docker, and Docker Compose**.
-
+This project is a full-stack web application that allows users to manage people records. Users can add, view, update, and delete people. The system is built using React for the frontend, Express.js for the backend, PostgreSQL as the database, and Docker for containerization.
 ---
 
 ## Features
@@ -35,17 +34,24 @@ This project is a full-stack web application built with **React, Express.js, Pos
 
 ## How to Run
 
-### 1)Clone the repository
+### 1) Clone the repository 
 
 ```bash
 git clone https://github.com/berkantkoroglu/person-management-docker.git
 cd person-management-docker
+```
 
-### 2)Run the application
+### 2) Run the application
 
 docker compose up --build
 
-### 3)Open in browser
+### 3) Open in browser
 
 - Frontend: http://localhost:3000/
 - Backend: http://localhost:5000/api/people
+
+---
+
+## Screenshots
+
+
