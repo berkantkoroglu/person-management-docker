@@ -54,4 +54,11 @@ docker compose up --build
 
 ## Screenshots
 
+### Registration Page
+![Registration](./screenshots/screenshot1.png)
 
+### People List
+![Registration](./screenshots/screenshot2.png)
+
+### Edit people informations from people list
+![Edit](./screenshots/screenshot3.png)
