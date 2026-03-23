@@ -37,7 +37,7 @@ This project is a full-stack web application that allows users to manage people 
 ### 1) Clone the repository 
 
 ```bash
-git clone https://github.com/berkantkoroglu/person-management-docker.git
+git clone https://github.com/berkantkoroglu/Seng384-person-management-docker.git
 cd person-management-docker
 ```
 
